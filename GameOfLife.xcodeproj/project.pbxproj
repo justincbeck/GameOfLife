@@ -14,14 +14,13 @@
 		987D4E4817DCAC7200A1FFEA /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 987D4E3D17DCAC7200A1FFEA /* Default.png */; };
 		987D4E4917DCAC7200A1FFEA /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 987D4E3E17DCAC7200A1FFEA /* Default@2x.png */; };
 		987D4E4A17DCAC7200A1FFEA /* BPViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 987D4E4017DCAC7200A1FFEA /* BPViewController.xib */; };
-		987D4E4B17DCAC7200A1FFEA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 987D4E4217DCAC7200A1FFEA /* InfoPlist.strings */; };
-		987D4E4C17DCAC7200A1FFEA /* GameOfLife-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 987D4E4417DCAC7200A1FFEA /* GameOfLife-Info.plist */; };
 		987D4E4D17DCAC7200A1FFEA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 987D4E4617DCAC7200A1FFEA /* main.m */; };
 		987D4E5517DCAC7D00A1FFEA /* BPAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 987D4E4F17DCAC7C00A1FFEA /* BPAppDelegate.m */; };
 		987D4E5617DCAC7D00A1FFEA /* BPCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 987D4E5117DCAC7C00A1FFEA /* BPCell.m */; };
 		987D4E5717DCAC7D00A1FFEA /* BPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 987D4E5317DCAC7C00A1FFEA /* BPViewController.m */; };
 		987D4E5817DCAC7D00A1FFEA /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 987D4E5417DCAC7D00A1FFEA /* MainStoryboard.storyboard */; };
 		987D4E5A17DCAC9100A1FFEA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 987D4E5917DCAC9100A1FFEA /* QuartzCore.framework */; };
+		98C4E73117DE2CB900482FE2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 987D4E4217DCAC7200A1FFEA /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -180,12 +179,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98C4E73117DE2CB900482FE2 /* InfoPlist.strings in Resources */,
 				987D4E4717DCAC7200A1FFEA /* Default-568h@2x.png in Resources */,
 				987D4E4817DCAC7200A1FFEA /* Default.png in Resources */,
 				987D4E4917DCAC7200A1FFEA /* Default@2x.png in Resources */,
 				987D4E4A17DCAC7200A1FFEA /* BPViewController.xib in Resources */,
-				987D4E4B17DCAC7200A1FFEA /* InfoPlist.strings in Resources */,
-				987D4E4C17DCAC7200A1FFEA /* GameOfLife-Info.plist in Resources */,
 				987D4E5817DCAC7D00A1FFEA /* MainStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
