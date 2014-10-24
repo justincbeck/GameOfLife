@@ -48,7 +48,7 @@
     [self seed:nil];
     
     CADisplayLink *displayLink = [CADisplayLink displayLinkWithTarget:self selector:@selector(tick)];
-    [displayLink setFrameInterval:10];
+    [displayLink setFrameInterval:4];
     [displayLink addToRunLoop:[NSRunLoop currentRunLoop] forMode:NSDefaultRunLoopMode];
 }
 

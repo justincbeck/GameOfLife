@@ -21,7 +21,7 @@
 {
     if (self = [super initWithFrame:frame])
     {
-        [self setBackgroundColor:[UIColor whiteColor]];
+        [self setBackgroundColor:[UIColor blackColor]];
         
         UITapGestureRecognizer *tapGesture = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(toggleLife)];
         [self addGestureRecognizer:tapGesture];
@@ -54,14 +54,14 @@
 
 - (void)activate
 {
-    [self setBackgroundColor:[UIColor blackColor]];
+    [self setBackgroundColor:[UIColor whiteColor]];
     _alive = YES;
     _beAlive = NO;
 }
 
 - (void)deactivate
 {
-    [self setBackgroundColor:[UIColor whiteColor]];
+    [self setBackgroundColor:[UIColor blackColor]];
     _alive = NO;
     _beAlive = NO;
 }
