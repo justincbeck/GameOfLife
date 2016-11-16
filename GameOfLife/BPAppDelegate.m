@@ -2,7 +2,7 @@
 //  BPAppDelegate.m
 //  GameOfLife
 //
-//  Created by Justin C. Beck on 9/7/13.
+//  Created by Justin C. Beck on 9/7/13. (More changes here)
 //  Copyright (c) 2013 BeckProduct. All rights reserved.
 //
 
