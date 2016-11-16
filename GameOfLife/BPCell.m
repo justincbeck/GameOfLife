@@ -2,7 +2,7 @@
 //  BPCell.m
 //  GameOfLife
 //
-//  Created by Justin C. Beck on 9/7/13.
+//  Created by Justin C. Beck on 9/7/13. (and he made it awesome)
 //  Copyright (c) 2013 BeckProduct. All rights reserved.
 //
 
